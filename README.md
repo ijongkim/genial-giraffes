@@ -1,6 +1,6 @@
 # Common Ground
 
-> Find convenient places to meet with others based on travel mode
+> Find convenient places to meet with others based on individual travel modes
 
 ## Team
 
