@@ -1,6 +1,6 @@
-# ETAparments
+# Common Ground
 
-> Find apartments based on time-to-travel to destinations important to you!
+> Find convenient places to meet with others based on travel mode
 
 ## Team
 
